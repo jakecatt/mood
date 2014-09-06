@@ -1,0 +1,4 @@
+mood
+====
+
+Global Mood Visualization
